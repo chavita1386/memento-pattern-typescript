@@ -6,7 +6,7 @@ Imagine that you have a component (input) and you can format the text (bold, ita
 
 ### Example:
 
-[Memento Pattern Example](hhttps://chavita1386.github.io/memento-pattern-typescript/)
+[Memento Pattern Example](https://chavita1386.github.io/memento-pattern-typescript/)
 
 ### Technologies and tools:
 
