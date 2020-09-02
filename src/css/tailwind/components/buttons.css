@@ -1,0 +1,16 @@
+.btn {
+  min-width: 48px;
+  width: 48px;
+  max-width: 48px;
+  height: 48px;
+  min-height: 48px;
+  @apply font-bold py-2 px-4 rounded bg-gray-300 text-black m-2;
+}
+
+.btn.btn--icon {
+  @apply text-white bg-blue-500;
+}
+
+.btn:disabled {
+  @apply opacity-25 text-white;
+}

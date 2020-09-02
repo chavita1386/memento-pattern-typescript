@@ -1,6 +1,6 @@
 {
-  "name": "template-typescript-web-app",
-  "version": "1.0.1",
+  "name": "Memento Pattern Example with Typescript",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

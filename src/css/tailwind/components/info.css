@@ -1,0 +1,19 @@
+.title {
+  @apply text-xl font-semibold text-gray-800 mt-8;
+}
+
+.subtitle {
+  @apply text-lg font-semibold text-gray-700;
+}
+
+.info__text {
+  @apply text-gray-700 text-base py-5;
+}
+
+.tools {
+  @apply p-2 flex items-center justify-center;
+}
+
+.input-wrapper {
+  @apply flex items-center justify-center;
+}
